@@ -78,7 +78,46 @@ may not be worth continued investment compared to digital channels.
 | Customer Analysis | Revenue breakdown by job title and month |
 | Excel for Data Analysis | Raw data and calculations |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivanimasani/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SivaniMasani)
+##  Project 2 — Electric Vehicle Population Analysis
 
-📧 masanisivani226@gmail.com
+###  Business Problem
+Analyse electric vehicle registration data across the USA to
+understand EV adoption trends, manufacturer dominance, and
+electric range performance across different makes and models.
+
+### Key Findings
+
+| Metric | Result |
+|--------|--------|
+|  Total Vehicles Analysed | **150,482** |
+| Top Manufacturer | **Tesla — 68,983 vehicles (46%)** |
+|  BEV vs PHEV Split | **BEV 78% vs PHEV 22%** |
+|  Highest Avg Electric Range | **Jaguar — 204 miles** |
+|  Tesla Avg Range | **90 miles** |
+|  Second Manufacturer | **Nissan — 13,497 vehicles** |
+|  Third Manufacturer | **Chevrolet — 12,026 vehicles** |
+
+###  Business Insights
+
+**1. Tesla completely dominates the EV market**
+With 68,983 registrations, Tesla accounts for nearly half of
+all EVs — more than Nissan and Chevrolet combined.
+
+**2. BEV is the clear winner over PHEV**
+78% of vehicles are fully electric (BEV) vs 22% hybrid (PHEV)
+showing strong consumer preference for fully electric vehicles.
+
+**3. Jaguar leads on range despite low volume**
+Jaguar has the highest average electric range at 204 miles —
+significantly ahead of Tesla's 90 miles — despite having far
+fewer vehicles registered.
+
+**4. EV adoption is accelerating**
+Vehicle registrations peaked in 2023 showing rapid year on year
+growth in EV adoption across the USA.
+
+###  Excel Skills Used
+- Pivot Tables — vehicle count by make and type
+- Average calculations — electric range by manufacturer
+- Data sorting and ranking
+- Large dataset handling (150,000+ rows)
